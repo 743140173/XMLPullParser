@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\as\AndroidStudioProjects\XMLPullParser\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_426ad47b0c180737bc1d40c89628bab5d90287f2.jar" />
+    </item>
+    <item
+        jar="E:\as\AndroidStudioProjects\XMLPullParser\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\as\AndroidStudioProjects\XMLPullParser\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_016aea1d8fcddf31b5d93d5b92a6f22273ede264.jar" />
+    </item>
+    <item
+        jar="E:\as\AndroidStudioProjects\XMLPullParser\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\as\AndroidStudioProjects\XMLPullParser\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_750ccedd637de084312c62d4a56cccd5e1f80b3d.jar" />
+    </item>
+
+</items>
